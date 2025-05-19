@@ -10,7 +10,7 @@
 
 
 ## Cara Menggunakan Program
-### 1. Buat file bernama grammar.txt yang berisi grammar yang ingin digunakan\
+### 1. Buat file bernama grammar.txt yang berisi grammar yang ingin digunakan \
 Contoh:
 ```
 S -> AB
@@ -21,10 +21,10 @@ D -> b
 E -> c
 F -> AD
 ```
-### 2. Buat file bernama input.txt yang berisi input string yang ingin diuji\
+### 2. Buat file bernama input.txt yang berisi input string yang ingin diuji \
 Contoh:
 ```
 aaabbbccc
 ```
-3. Jalankan cyk_algorithm.py
-4. Program akan mengeluarkan output "Belong to this context free grammar" bila input valid dengan grammar, dan output "Doesn't belong to this context free grammar" bila tidak valid.
+### 3. Jalankan cyk_algorithm.py
+### 4. Program akan mengeluarkan output "Belong to this context free grammar" bila input valid dengan grammar, dan output "Doesn't belong to this context free grammar" bila tidak valid.
