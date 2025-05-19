@@ -9,8 +9,8 @@
 ### Cocke–Younger–Kasami (CYK) algorithm
 
 
-### Cara Menggunakan Program
-1. Buat file bernama grammar.txt yang berisi grammar yang ingin digunakan
+## Cara Menggunakan Program
+### 1. Buat file bernama grammar.txt yang berisi grammar yang ingin digunakan\
 Contoh:
 ```
 S -> AB
@@ -21,7 +21,7 @@ D -> b
 E -> c
 F -> AD
 ```
-2. Buat file bernama input.txt yang berisi input string yang ingin diuji
+### 2. Buat file bernama input.txt yang berisi input string yang ingin diuji\
 Contoh:
 ```
 aaabbbccc
